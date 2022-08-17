@@ -63,7 +63,7 @@ post:
   relate_posts: Lecturas adicionales
   share: Compartir
   button:
-    next: Nuevo
+    next: Siguiente
     previous: Anterior
     copy_code:
       succeed: ¡Copiado!
